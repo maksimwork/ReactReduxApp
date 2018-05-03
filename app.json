@@ -17,7 +17,7 @@
     "FROM_EMAIL": {
       "description": "A *validated* from-email address to send emails from(REQUIRED)",
       "value":""
-    }
+    },
   },
   "addons": ["mongolab", "postmark:10k"]
 }
